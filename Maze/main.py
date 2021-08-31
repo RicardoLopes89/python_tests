@@ -36,4 +36,5 @@ def main(filename):
 
 
 if __name__ == '__main__':
-    main('Maze.txt')
+    filename = 'Maze.txt'
+    main(filename)
